@@ -1,6 +1,8 @@
 ### Hi there! ✌️
  ⚡ Sou Michelle Freitas, estudante de Análise e Desenvolvimento de Sistemas (2º Sem).<br>
- ✨ Buscando uma vaga de estágio.
+ ✨ Buscando uma vaga de estágio. <br>
+ 🌱 <a href="https://michelle-freitas.github.io/HMTL5-CSS3/">GitPage - Projetinhos</a>
+ 
  
  ##
 
