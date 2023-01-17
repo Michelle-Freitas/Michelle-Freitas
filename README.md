@@ -1,5 +1,5 @@
 ### Hi there! ✌️
- ⚡ Sou Michelle Freitas, estudante de Análise e Desenvolvimento de Sistemas (2º Sem).<br>
+ ⚡ Sou Michelle Freitas, estudante de Análise e Desenvolvimento de Sistemas (3º Sem).<br>
  ✨ Buscando uma vaga de estágio. <br>
  🌱 <a href="https://michelle-freitas.github.io/HMTL5-CSS3-JS/" target="_blank">GitPage - Projetinhos</a><br>
  🔭 <a href="https://www.linkedin.com/in/michelle-afreitas/" target="_blank">LinkedIn</a>
