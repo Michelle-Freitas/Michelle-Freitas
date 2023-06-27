@@ -1,7 +1,9 @@
 ### Hi there! ✌️
- ⚡ Sou Michelle Freitas, estudante de Análise e Desenvolvimento de Sistemas (3º Sem).<br>
+ ⚡ Sou Michelle Freitas, 
+ Desenvolvedora Front End <br>
+ Estudante de Análise e Desenvolvimento de Sistemas (3º Sem).<br>
  ✨ Buscando uma vaga. <br>
- 🌱 <a href="https://michelle-freitas.github.io/HMTL5-CSS3-JS/" target="_blank">GitPage - Projetinhos</a><br>
+ 🌱 Visite meu <a href="https://michelle-freitas.vercel.app/" target="_blank">Portifólio</a><br>
  🔭 <a href="https://www.linkedin.com/in/michelle-afreitas/" target="_blank">LinkedIn</a>
 
  
