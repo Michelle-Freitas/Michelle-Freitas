@@ -1,7 +1,7 @@
 ### Hi there! ✌️
  ⚡ Sou Michelle Freitas, 
  Desenvolvedora Front End <br>
- Estudante de Análise e Desenvolvimento de Sistemas (3º Sem).<br>
+ Estudante de Análise e Desenvolvimento de Sistemas (4º Sem).<br>
  ✨ Buscando uma vaga. <br>
  🌱 Visite meu <a href="https://michelle-freitas.vercel.app/" target="_blank">Portifólio</a><br>
  🔭 <a href="https://www.linkedin.com/in/michelle-afreitas/" target="_blank">LinkedIn</a>
@@ -29,6 +29,16 @@
 
 ![Snake animation](https://github.com/michelle-freitas/michelle-freitas/blob/output/github-contribution-grid-snake.svg)
 
+<!--- Snake animation -->
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ michelle-freitas }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
 
