@@ -27,10 +27,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
 
-<!--- Antiga animação
-![Snake animation](https://github.com/michelle-freitas/michelle-freitas/blob/output/github-contribution-grid-snake.svg)
- -->
-
 <!--- Snake animation -->
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
@@ -38,6 +34,9 @@
 
 
 <!---
+Antiga animação
+![Snake animation](https://github.com/michelle-freitas/michelle-freitas/blob/output/github-contribution-grid-snake.svg)
+
 Michelle-Freitas/Michelle-Freitas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
