@@ -3,7 +3,7 @@
  Desenvolvedora Front End <br>
  Estudante de Análise e Desenvolvimento de Sistemas (4º Sem).<br>
  ✨ Buscando uma vaga. <br>
- 🌱 Visite meu <a href="https://michelle-freitas.vercel.app/" target="_blank">Portifólio</a><br>
+ 🌱 Visite meu <a href="https://michelle-freitas.vercel.app/" target="_blank">Portfólio</a><br>
  🔭 <a href="https://www.linkedin.com/in/michelle-afreitas/" target="_blank">LinkedIn</a>
 
  
@@ -27,8 +27,9 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
 
+<!--- Antiga animação
 ![Snake animation](https://github.com/michelle-freitas/michelle-freitas/blob/output/github-contribution-grid-snake.svg)
-
+ -->
 
 <!--- Snake animation -->
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
