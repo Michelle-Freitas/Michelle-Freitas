@@ -3,17 +3,20 @@
  Desenvolvedora Front End <br>
  Estudante de Análise e Desenvolvimento de Sistemas (4º Sem).<br>
  ✨ Buscando uma vaga. <br>
- 🌱 Visite meu <a href="https://michelle-freitas.vercel.app/" target="_blank">Portfólio</a><br>
- 🔭 <a href="https://www.linkedin.com/in/michelle-afreitas/" target="_blank">LinkedIn</a>
+ 🌱 Visite meu <a href="https://michelle-freitas.vercel.app/" >Portfólio</a><br>
 
- 
+ <div> 
+  <a href = "https://michelle-freitas.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%230077B5?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/michelle-afreitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:michelle.afreitas7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
  
  ##
 
 <div align="center">
   <a href="https://github.com/Michelle-Freitas">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=michelle-freitas&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelle-freitas&layout=compact&langs_count=7&theme=material-palenight"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=michelle-freitas&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelle-freitas&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
   
@@ -27,8 +30,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
 
-<!--- Snake animation -->
-![Snake animation](https://github.com/michelle-freitas/michelle-freitas/blob/output/github-contribution-grid-snake.svg)
 
 
 
@@ -36,6 +37,7 @@
 
 
 <!---
+Essa versão não atualiza
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 Antiga animação
