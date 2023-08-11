@@ -28,12 +28,16 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
 
 <!--- Snake animation -->
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/michelle-freitas/michelle-freitas/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 
 
 <!---
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
 Antiga animação
 ![Snake animation](https://github.com/michelle-freitas/michelle-freitas/blob/output/github-contribution-grid-snake.svg)
 
