@@ -40,6 +40,12 @@ Essa versão não atualiza
 Antiga animação
 ![Snake animation](https://github.com/michelle-freitas/michelle-freitas/blob/output/github-contribution-grid-snake.svg)
 
+
+--------------------------------
+Item do repositorio 
+https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=michelle-freitas&theme=material-palenight&repo=HMTL5-CSS3-JS
+
+--------------------------------
 Michelle-Freitas/Michelle-Freitas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
