@@ -2,8 +2,10 @@
  ⚡ Sou Michelle Freitas, <br>
  Desenvolvedora Front End <br>
  Estudante de Análise e Desenvolvimento de Sistemas (4º Sem).<br>
- ✨ Buscando uma vaga. <br>
- 🌱 I’m currently learning React <br>
+ ✨ Ansiosa para aplicar minhas habilidades técnicas e paixão pelo desenvolvimento frontend em um ambiente dinâmico e desafiador. <br>
+ 🚀 No momento me aventurando em React. <br>
+ 🩰 Apaixonada por ballet, alimenta minha alma, me desafia e sigo persistente.  <br>
+ 
 
  <div> 
   <a href = "https://michelle-freitas.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%230077B5?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank"></a>
