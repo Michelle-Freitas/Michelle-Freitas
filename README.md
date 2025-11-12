@@ -1,8 +1,7 @@
 ### Hi there! ✌️
  ⚡ Sou Michelle Freitas, <br>
  Desenvolvedora Front End <br>
- Estudante de Análise e Desenvolvimento de Sistemas (4º Sem).<br>
- ✨ Ansiosa para aplicar minhas habilidades técnicas e paixão pelo desenvolvimento frontend em um ambiente dinâmico e desafiador. <br>
+
  🚀 No momento me aventurando em React. <br>
  🩰 Apaixonada por ballet, alimenta minha alma, me desafia e sigo persistente.  <br>
  
@@ -20,7 +19,7 @@
 </div>
 
   ## Tecnologias:
-  
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
